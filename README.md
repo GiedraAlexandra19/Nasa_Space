@@ -9,6 +9,13 @@ Este repositorio contiene un ejemplo de página web con temática espacial, dise
 - **Galería**
 - **Expertos en**
 
+Algunas imagenes de referencia:
+  ![image](https://github.com/user-attachments/assets/6673f7e8-0667-4332-b6eb-e6c89d8e327b)
+  ![image](https://github.com/user-attachments/assets/1b27caf2-e327-4929-bc75-c717a99bb554)
+  ![image](https://github.com/user-attachments/assets/e16a0347-e33d-4587-a538-80221c45b22c)
+
+
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
